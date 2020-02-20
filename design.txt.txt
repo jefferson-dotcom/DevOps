@@ -1,0 +1,10 @@
+2.	Designer de modelagem
+2.1.	No desenvolvimento web e do app utilizaremos flutter por ele ser flexível o compativel com, Windows, OS, Linux, Android e IOS. O app será desenvolvido com o flutter;
+2.2.	Utilizaremos Python para complementar o desenvolvimento com flutter;
+2.3.	Para o carro ser autonomo criaremos um sistema que seja interligado a tecnolgia GPS (Global Position System) para ele saber ruas e rotas. O local de destino será especificado pelo passageiro no inicio da corrida;
+2.4.	Para funcionar os sinais de internet descrito no item 1.3 instalaremos antenas para recepção do sinal.
+2.5.	O carro percorrerá o caminho de no máximo 10km devido a exigência no item 1.4, o valor será de (USD $ 1 dolar). Podendo ser dobrado em período dinâmico;
+2.6.	Assim que o sistema verificar que a região está dinâmica, o sistema aumentará o valor da corrida para o dobro (financeiro) e deverá disponibilizar mais veículos para o local, isso será feito através do gerenciamento de trafego e solicitação via App ou Web. O sistema de LOG ficará responsável por gerar essas informações das regiões dinâmicas;
+2.7.	O controle de acesso ao carro, será desenvolvido em Python, o usuário poderá escolher se deseja receber o código para desbloqueio via SMS ou no próprio app através de código numérico a ser digito no celular ou QRCode.
+2.8.	O sistema financeiro será desenvolvido para que o passageiro pague a passagem antes da corrida com possibilidade de acréscimo caso haja algum problema como dano ao veículo;
+2.9.	No sistema Anti-vandalismo, utilizaremos um Arduino ligado a diversos sensores que conseguirá que gerenciará o interior do carro evitando problemas de vandalismo.

@@ -1,0 +1,10 @@
+1.	Analise
+1.1.	O sistema deve ser autônomo, ou seja, não precisa de um motorista; 
+1.2.	O carro deve ter como combustível principal hidrogênio e com redundância energia solar.
+1.3.	Internet: O carro deve funcionar com sinais 3, 4 e 5G/LTE, wireless 802.11 B,G,N e AC  e 802.16 WiMAX. Dentro da área de Telecom o carro deve suportar sinal GPS via satélite.
+1.4.	O carro deve ser utilizado em viagens de curta duração de tempo e deslocamento;
+1.5.	O sistema deve prover escalabilidade em momentos necessários como em caso de chuva ou horário de picos;
+1.6.	O carro deve contar um sistema de controle de acesso, que identifique o passageiro e somente libere a entrada no veiculo através de código especifico via app.
+1.7.	O sistema financeiro deve suportar pagamentos online, debito e credito;
+1.8.	O carro deve conter um sistema anti-vandalismo;
+1.9.	O sistema deve ter um app mobile e pagina web expansiva
