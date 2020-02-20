@@ -1,0 +1,5 @@
+4.	Teste
+4.1.	No teste de utilização o passageiro deverá solicitar um carro, colocando o destino de no máximo 10km, caso a distância seja maior, aparecerá uma mensagem de erro para o passageiro, solicitando que ele coloque um endereço com a distância dentro de 10km.
+A distância estando dentro do km máximo, o sistema devera reconhecer o local do passageiro através da tecnologia GPS e direcionar o carro mais próximo dele, no menor período de tempo.
+Assim que o carro chegar até o passageiro devera conferir os dados do veículo como placa, modelo, código que daremos a cada veiculo e cor. Sendo o carro correto o passageiro terá que desbloquear a porta do veículo através de um código SMS, código numérico dentro do app ou QRCode do veículo, que estará no lado direito do passageiro.
+Dentro do veículo o passageiro apenas terá que confirmar o início da corrida para que o veículo comece a direcionar-se para o destino já programado pelo o usuário anteriormente no app.

@@ -1,0 +1,4 @@
+5.	Operação
+5.1.	O sistema um sistema de LOG para gerenciamento de trafego de dados, erro de rede, acesso remoto. Provavelmente essa plataforma será o zabbix, que trabalha em cima do protocolo SNMP.
+5.2.	O sistema ficará hospedado em um serve da Amazon.
+5.3.	O sistema deve entender e operar automáticas funções básicas como: Se 15 pessoas solicitar o serviço em menos de 1 Km² dentro do período de minutos o sistema deve entrar no modo dinâmico automático, e com isso, direcionar mais carros para a região. Esse sistema também deve ser controlado pelo sistema de LOG.
